@@ -1,4 +1,4 @@
-# UAS-Pengolahan-Sinyal-Digital_Kelompok-5
+# Pengolahan Sinyal Digital_Audio Analisis
 
 Anggota Kelompok:
 1. Muslim Fazlur Rohman (24031554154)
