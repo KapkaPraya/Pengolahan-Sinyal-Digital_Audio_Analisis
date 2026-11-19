@@ -1,4 +1,4 @@
-# Pengolahan Sinyal Digital_Audio Analisis
+# Pengolahan Sinyal Digital_Audio Analisis MFCC
 
 Anggota Kelompok:
 1. Muslim Fazlur Rohman (24031554154)
